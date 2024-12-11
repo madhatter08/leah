@@ -1,5 +1,5 @@
 <h2> Hi, I'm Leah Manalo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="180">
 
 ### 🌐 Socials
 [![Linkedin: leahmanalo](https://img.shields.io/badge/-/leahmanalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leahmanalo/)](https://www.linkedin.com/in/leahmanalo/)
