@@ -29,13 +29,12 @@
 const leah = {
   pronouns: "she" | "her",
 
-  code: ["C#", "Visual Basic", "Javascript", "HTML", "CSS", "Python", "PHP", "C++"],
-  tools: ["MySQL Workbench", "XAMPP", "Google AppSheet", "Wordpress"],
-  frameworks: [".Net", "Laravel", "React", "Node.js", "Bootstrap"],
+  learning: ["MERN Stack", "GPT"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: "Google Developers Group Manila",
+  workStyle: ["logical", "flexible", "results-oriented", "growth mindset"],
 
+  techCommunities: ["Google Developers Group Manila", "FreeCodeCamp"],
   focus: "signing up for new experiences",
-  interest: ["movie night", "cookies", "crinkles", "chicken"]
+  hobbies: "watching thriller movies"
 }
 ```
