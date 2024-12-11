@@ -2,13 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="180">
 
 ### 🌐 Socials
-<a href="https://www.linkedin.com/in/leahmanalo/" target="_blank">
-  <img src="https://img.shields.io/badge/-/leahmanalo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leahmanalo/" alt="LinkedIn: leahmanalo">
-</a>
-<a href="https://madhatter08.github.io/LeahManaloPortfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/leahmanalo-ff007f.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://madhatter08.github.io/LeahManaloPortfolio/" alt="Website: leahmanalo">
-</a>
-
+[![Linkedin: leahmanalo](https://img.shields.io/badge/-/leahmanalo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leahmanalo/)](https://www.linkedin.com/in/leahmanalo/)
+[![Website: leahmanalo](https://img.shields.io/badge/leahmanalo-ff007f.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://madhatter08.github.io/LeahManaloPortfolio/)](https://madhatter08.github.io/LeahManaloPortfolio/)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Languages
 ![C#.NET](https://img.shields.io/badge/-C%23.NET-512BD4?&logo=.NET&logoColor=white&style=flat)
